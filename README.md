@@ -4,7 +4,7 @@ GlowSharp is an inofficial and incomplete C# API Wrapper for the Phillips Hue AP
 
 ## Installation
 
-You need the Visual Stduio 2019 Community Edition or newer to open and execute the "Examples/Hello World/HelloWorld/HelloWorld.sln" file. 
+You need the Visual Studio 2019 Community Edition or newer to open and execute the "Examples/Hello World/HelloWorld/HelloWorld.sln" file. 
 
 Otherwise you're able to create a new project and inlude the "Source/GlowSharpLib.sln" as a Library. 
 
